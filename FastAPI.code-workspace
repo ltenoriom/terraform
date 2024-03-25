@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../Build a Generative AI Micro-SaaS App with Python & Streamlit/FastAPI"
+		},
+		{
+			"path": "../Build a Generative AI Micro-SaaS App with Python & Streamlit/saas_streamlit-main"
+		},
+		{
+			"path": "../Build a Generative AI Micro-SaaS App with Python & Streamlit/saas-main"
+		},
+		{
+			"path": "../Build a Generative AI Micro-SaaS App with Python & Streamlit/saas"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
