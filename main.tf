@@ -1,7 +1,7 @@
 resource "aws_vpc" "mtc_vpc" {
 
 
-@FpYvDiKB$42C
+
 
   cidr_block           = "10.123.0.0/16"
   enable_dns_hostnames = true
